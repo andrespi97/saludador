@@ -24,3 +24,6 @@ button:hover {
 section {
   flex: 1;
 }
+footer {
+  align-self: end;
+}
