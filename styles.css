@@ -21,3 +21,6 @@ button:hover {
   background-color: bisque;
   color: black;
 }
+section {
+  flex: 1;
+}

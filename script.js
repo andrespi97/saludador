@@ -5,4 +5,5 @@ function saludar() {
   } else {
     document.getElementById("frase").innerHTML = "Saludos amigo";
   }
+  confetti();
 }
