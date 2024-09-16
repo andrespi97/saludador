@@ -1,19 +1,23 @@
 # Saludator
 
 ## Descripcion
+Ejercicio de una aplicación web que te saluda por pantalla.
 
-Aplicación web que te saluda.
-
+## Tecnologías
+- html
+- css
+- javascript
+- 
 ### Sprint 1
 
-- [ ] crear la estructura html
+- [x] crear la estructura html
 
-- [ ] aplicar estilos con css
+- [x] aplicar estilos con css
 
-- [ ] dotar de comportamiento con js
+- [x] dotar de comportamiento con js
 
 ### Sprint 2
 
-- [ ] etc
+- [x] etc
 
-- [ ] Aplicar Confetti
+- [x] Aplicar Confetti
