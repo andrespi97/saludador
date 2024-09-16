@@ -7,7 +7,10 @@ Ejercicio de una aplicación web que te saluda por pantalla.
 - html
 - css
 - javascript
-- 
+
+## Deploy
+https://andrespi97.github.io/saludador/
+
 ### Sprint 1
 
 - [x] crear la estructura html
